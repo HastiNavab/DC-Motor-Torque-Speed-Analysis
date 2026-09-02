@@ -35,14 +35,6 @@ In a shunt DC motor, the field winding is connected in parallel with the armatur
 
 ![Shunt DC Motor Step Circuit](Shunt_Motor/Shunt_Step.png)
 
-### Step Load Output
-
-![Shunt DC Motor Step Output](Shunt_Motor/Shunt_Step_Output.png)
-
-### Ramp Load Output
-
-![Shunt DC Motor Ramp Output](Shunt_Motor/Shunt_Ramp_Output.png)
-
 ## Series DC Motor
 
 In a series DC motor, the field winding is connected in series with the armature, so the field flux depends on armature current.
@@ -53,14 +45,6 @@ The series motor provides high starting torque but has greater speed variation. 
 
 ![Series DC Motor Step Circuit](Series_Motor/Series_Step.png)
 
-### Step Load Output
-
-![Series DC Motor Step Output](Series_Motor/Series_Step_Output.png)
-
-### Ramp Load Output
-
-![Series DC Motor Ramp Output](Series_Motor/Series_Ramp_Output.png)
-
 ## Compound DC Motor
 
 A compound DC motor combines the characteristics of shunt and series motors.
@@ -70,14 +54,6 @@ It provides a balance between good starting torque and relatively stable speed.
 ### Step Load Circuit
 
 ![Compound DC Motor Step Circuit](Compound_Motor/Compound_Step.png)
-
-### Step Load Output
-
-![Compound DC Motor Step Output](Compound_Motor/Compound_Step_Output.png)
-
-### Ramp Load Output
-
-![Compound DC Motor Ramp Output](Compound_Motor/Compound_Ramp_Output.png)
 
 ## Comparison
 
